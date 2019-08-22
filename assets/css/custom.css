@@ -1,0 +1,31 @@
+.sliderimg {
+    width:250px ;
+    height:400px ;
+}
+div.pp{
+    margin: 0px 75px 10px 75px;
+}
+div.footer-color{
+    background-color:purple;
+}
+h6.footerText{
+    color:white;
+
+}
+.social,a.social:hover{
+    color:white;
+}
+
+.content{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+p{
+    font-size: 12px;
+}
+.footer-link{
+    font-size: 14px;
+}
+
+
